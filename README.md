@@ -17,7 +17,3 @@ MAA (My Alerting Ally) is a **B2B MedTech platform** that helps hospitals manage
 - **UI Animations:** Framer Motion  
 - **API Handling:** Axios  
 
-## 📌 Setup  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/your-repo/maa-frontend.git
